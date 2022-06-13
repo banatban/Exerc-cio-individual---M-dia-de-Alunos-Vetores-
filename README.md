@@ -1,1 +1,1 @@
-# Exerc-cio-individual---M-dia-de-Alunos-Vetores-
+# Exercicio Media de Alunos Vetores
