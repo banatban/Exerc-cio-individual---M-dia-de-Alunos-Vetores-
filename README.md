@@ -1,1 +1,1 @@
-# Exercicio Media de Alunos Vetores
+# Exercicio imagem_matriz
